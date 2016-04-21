@@ -10,9 +10,7 @@ Lesson content
 
 
 **Resources:**
-
-* [Cool link]() from X
-* [Cool link]() from X
+* [How to Seem Human on the Web](http://mikeconley.github.io/community-tips-slides/) from Mike Conley
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/22_submitting_manuscripts_to_journals.md)  Navigate [Next]()>>
 
